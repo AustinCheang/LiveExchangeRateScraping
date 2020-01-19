@@ -21,8 +21,5 @@ def exchangeRate():
 
 
 while True:
-    for i in range (300):
         exchangeRate()
-    rates = [0]
-
-
+    
